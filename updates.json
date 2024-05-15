@@ -1,0 +1,23 @@
+{
+  "linux": {
+    "version": "38b9b6938e62b773e7700d98a71b493dd1971354fd5fa401f1974e8d07290806",
+    "pretty_version": "version1.1ALPHA&bugfix",
+    "renpy_version": "8.2.1.24030407",
+    "rpu_url": "rpu/linux.files.rpu",
+    "rpu_digest": "891eca94b0128fe2ba684632af6f8ed172a0e75dd783e108b3a69a9413d8673e"
+  },
+  "mac": {
+    "version": "40cacebd061ea385ef1d3d9d85d7aab955c2702487614542a10f9b4a1e93bbd6",
+    "pretty_version": "version1.1ALPHA&bugfix",
+    "renpy_version": "8.2.1.24030407",
+    "rpu_url": "rpu/mac.files.rpu",
+    "rpu_digest": "455ea95319cc4373094100d63ffa4f40d5879a9681e840c755e69d1c9c46d1ad"
+  },
+  "win": {
+    "version": "f64b6e51d3596781a9603878734e83c649c98e3026d9b1f943187b9000fe1bdb",
+    "pretty_version": "version1.1ALPHA&bugfix",
+    "renpy_version": "8.2.1.24030407",
+    "rpu_url": "rpu/win.files.rpu",
+    "rpu_digest": "df856c580f3425d8ecbd145b52b5cb45f09720e35135a4727ef5fa954059f4c5"
+  }
+}
